@@ -102,7 +102,7 @@ while True:
           
           
 
-    cv2.imshow("img", img)
+    cv2.imshow("clip", img)
     
     
     
@@ -113,5 +113,5 @@ while True:
     
 
     
-cap.release()    #to release video
+cap.release()    #to release videolol
 cv2.destroyAllWindows()  #close all windows           
