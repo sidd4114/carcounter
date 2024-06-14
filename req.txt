@@ -1,0 +1,13 @@
+# Object Detection Course
+ 
+cvzone
+ultralytics
+matplotlib
+numpy
+opencv-python
+scipy
+torch
+torchvision
+filterpy
+scikit-image
+lap
